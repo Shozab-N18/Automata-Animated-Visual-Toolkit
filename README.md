@@ -1,1 +1,1 @@
-# Automata-Animated-Visual-Toolkit-
+# Automata-Animated-Visual-Toolkit
