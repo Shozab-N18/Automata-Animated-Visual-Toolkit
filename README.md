@@ -71,7 +71,6 @@ The **Automata-Animated-Visual-Toolkit** is a Java-based tool designed to help s
 
 ## Technologies
 
-Example:
 - Java
 - JavaFX
 - JUnit
