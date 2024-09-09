@@ -83,6 +83,6 @@ The **Automata-Animated-Visual-Toolkit** is a Java-based tool designed to help s
 For questions, feel free to reach out:
 
 - **Name**: Shozab Anwar Siddique
-- **Email**: [shozabamwarsiddique@gmail.com](mailto:shozabamwarsiddique@gmail.com)
-- **LinkedIn**: [linkedin.com/in/shozabamwarsiddique](https://linkedin.com/in/shozabamwarsiddique)
+- **Email**: [shozabanwarsiddique@gmail.com](mailto:shozabanwarsiddique@gmail.com)
+- **LinkedIn**: [linkedin.com/in/shozabanwarsiddique](https://linkedin.com/in/shozabanwarsiddique)
 - **GitHub**: [github.com/Shozab-N18](https://github.com/Shozab-N18)
