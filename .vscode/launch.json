@@ -1,0 +1,37 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "App",
+            "request": "launch",
+            "mainClass": "app.App",
+            "projectName": "Automata-Animated-Visual-Toolkit_ec9ff0de",
+            "vmArgs": "--module-path /lib/javafx-sdk-21.0.2/lib"
+        },
+        {
+            "type": "lldb",
+            "request": "attach",
+            "name": "Attach",
+            "program": "${workspaceFolder}/<program>"
+        },
+        {
+            "type": "java",
+            "name": "Run Tests with JaCoCo",
+            "request": "launch",
+            "mainClass": "org.junit.platform.console.ConsoleLauncher",
+            "projectName": "Automata-Animated-Visual-Toolkit_ec9ff0de",
+            "args": [
+                "--select-package",
+                "tests"
+            ],
+            "vmArgs": [
+                "-classpath",
+                "${workspaceFolder}/lib/mockito.jar:${workspaceFolder}/javafx-sdk-21.0.2/lib",
+                "--module-path",
+                "/lib/javafx-sdk-21.0.2/lib",
+                "--add-modules",
+                "javafx.controls,javafx.fxml"
+            ]            
+        }
+    ]
+}

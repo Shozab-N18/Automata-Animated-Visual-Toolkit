@@ -1,0 +1,17 @@
+{
+    "java.project.referencedLibraries": [
+        "/home/shozab/javafx-sdk-21.0.2/lib/javafx.base.jar",
+        "/home/shozab/javafx-sdk-21.0.2/lib/javafx.controls.jar",
+        "/home/shozab/javafx-sdk-21.0.2/lib/javafx.fxml.jar",
+        "/home/shozab/javafx-sdk-21.0.2/lib/javafx.graphics.jar",
+        "/home/shozab/javafx-sdk-21.0.2/lib/javafx.media.jar",
+        "/home/shozab/javafx-sdk-21.0.2/lib/javafx.swing.jar",
+        "/home/shozab/javafx-sdk-21.0.2/lib/javafx.web.jar",
+        "/home/shozab/Desktop/Automata-Animated-Visual-Toolkit/fontawesomefx-8.9.jar",
+        "/home/shozab/Desktop/Automata-Animated-Visual-Toolkit/lib/mockito-core-4.8.1.jar",
+        "test-lib/**/*.jar"
+    ],
+    "java.classPath": [
+        "/home/shozab/Desktop/Automata-Animated-Visual-Toolkit/fontawesomefx-8.9.jar"
+    ]
+}  

@@ -1,0 +1,17 @@
+#coordinatesLabel {
+    -fx-font-weight: bold;
+    -fx-alignment: BOTTOM_RIGHT;
+    -fx-padding: 0 10 10 0; /* Adjust padding as needed */
+    -fx-background-color: white; /* Set the background color */
+    -fx-padding: 5; /* Optional: Add padding for better visibility */
+    -fx-border-color: black; /* Optional: Add a border for better visibility */
+    
+}
+
+/* #subsetConstructionCanvas {
+    -fx-alignment: center;
+    -fx-background-color: white;
+    -fx-background-radius: 50px;
+    -fx-padding: 10px;
+    -fx-effect: dropshadow(three-pass-box, rgba(0,0,0,0.1), 10, 0, 0, 0);
+} */

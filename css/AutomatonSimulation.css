@@ -1,0 +1,56 @@
+.button {
+    -fx-font-size: 14px;
+    -fx-padding: 5 10 5 10;
+    font-size: 14px;
+    padding: 5px 10px;
+}
+
+#coordinatesLabel {
+    -fx-font-weight: bold;
+    -fx-alignment: BOTTOM_RIGHT;
+    -fx-padding: 0 10 10 0;
+    -fx-background-color: white; 
+    -fx-padding: 5; 
+    -fx-border-color: black; 
+
+    font-weight: bold;
+    padding: 0 10px 10px 0;
+    background-color: white;
+    border-color: black;
+}
+
+.tapeGrid {
+    -fx-padding: 5px; 
+    -fx-background-color: lightgray;
+    /* -fx-border-color: black; */
+    -fx-border-width: 1px; 
+}
+
+.tapeCell {
+    -fx-border-color: black; 
+    -fx-border-width: 4px;
+    -fx-padding: 20px;
+    -fx-font-size: 15px;
+    -fx-background-color: lightblue;
+}
+
+.headCell {
+    -fx-border-color: black; 
+    -fx-border-width: 4px;
+    -fx-padding: 20px;
+    -fx-font-size: 15px;
+    -fx-background-color: lightgreen;
+}
+
+.head{
+    -fx-alignment: CENTER;
+    -fx-font-size: 14px;
+}
+
+.rejectedCell {
+    -fx-border-color: black; 
+    -fx-border-width: 4px;
+    -fx-padding: 20px;
+    -fx-font-size: 15px;
+    -fx-background-color: lightcoral;
+}

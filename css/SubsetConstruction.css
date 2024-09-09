@@ -1,0 +1,22 @@
+#dataWrapper {
+    -fx-alignment: center;
+    -fx-background-color: white;
+    -fx-background-radius: 5px; /* Size value with unit */
+    -fx-padding: 10px;
+    -fx-effect: dropshadow(three-pass-box, rgba(0,0,0,0.2), 10, 0, 0, 0);
+}
+
+#subsetConstructionCanvas {
+    -fx-alignment: center;
+    -fx-background-color: white;
+    -fx-background-radius: 50px;
+    /* -fx-padding: 10px; */
+    /* -fx-effect: dropshadow(three-pass-box, rgba(0,0,0,0.1), 10, 0, 0, 0); */
+}
+
+.stack-pane {
+    -fx-background-color: white;
+    -fx-background-radius: 10px; /* Adjust as needed */
+    -fx-padding: 10px;
+    -fx-effect: dropshadow(three-pass-box, rgba(0,0,0,0.2), 10, 0, 0, 0);
+}

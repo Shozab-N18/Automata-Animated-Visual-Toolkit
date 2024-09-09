@@ -1,0 +1,43 @@
+
+#automataLabel {
+    -fx-font-size: 30px;
+    -fx-font-weight: bold;
+    -fx-alignment: CENTER; 
+    -fx-padding: 5 5 5 5;
+}
+
+#controlPanel {
+    -fx-spacing: 5;
+}
+
+.button {
+    -fx-font-size: 14px;
+    -fx-padding: 5 10 5 10;
+}
+
+.text-field {
+    -fx-pref-width: 100;
+    -fx-pref-height: 20;
+}
+
+#coordinatesLabel {
+    -fx-font-weight: bold;
+    -fx-alignment: BOTTOM_RIGHT;
+    -fx-padding: 0 10 10 0; /* Adjust padding as needed */
+    -fx-background-color: white; /* Set the background color */
+    -fx-padding: 5; /* Optional: Add padding for better visibility */
+    -fx-border-color: black; /* Optional: Add a border for better visibility */
+}
+
+
+.button-with-margin {
+    -fx-padding: 5px;
+    -fx-border-insets: 5px;
+    -fx-background-insets: 5px;
+}
+
+#automataTypeLabel {
+    -fx-font-size: 12px;
+    -fx-font-weight: bold;
+    -fx-text-fill: #333333; /* Set text color */
+}
