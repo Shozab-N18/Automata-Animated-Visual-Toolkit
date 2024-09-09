@@ -84,5 +84,5 @@ For questions, feel free to reach out:
 
 - **Name**: Shozab Anwar Siddique
 - **Email**: [shozabamwarsiddique@gmail.com](mailto:shozabamwarsiddique@gmail.com)
-- **LinkedIn**: [Your LinkedIn Profile](https://linkedin.com/in/shozabamwarsiddique)
-- **GitHub**: [Your GitHub Profile](https://github.com/Shozab-N18)
+- **LinkedIn**: [linkedin.com/in/shozabamwarsiddique](https://linkedin.com/in/shozabamwarsiddique)
+- **GitHub**: [github.com/Shozab-N18](https://github.com/Shozab-N18)
